@@ -1,0 +1,37 @@
+{ "name": "team1",
+  "teams": [
+      {
+          "name": "team1",
+          "members": [
+              {
+                  "age": "18",
+                  "name": "siva"
+              }
+          ]
+      },
+      {
+          "Administrators": [
+              {
+                  "name": "sakthi"
+              }
+          ],
+          "members": [
+              {
+                  "age": "18",
+                  "name": "siva"
+              }
+          ],
+          "name": "team2",
+          "technicians": [
+              {
+                  "age": "16",
+                  "name": "siva"
+              },
+              {
+                  "name": "Chitra"
+              }
+          ],
+          "descriptions": "ghfsdkaghsdkjfagdhs"
+      }
+  ]
+}
